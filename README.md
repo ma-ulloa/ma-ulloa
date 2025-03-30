@@ -22,3 +22,4 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ma-alejan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma-ulloa&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
