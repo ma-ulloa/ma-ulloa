@@ -1,6 +1,6 @@
 ## About Me 😊
 
-Hi, I’m Alejandra! I’m a passionate life scientist with a knack for omics data. I hope to understand human diaseases and the interaction between microbes and us. I'm currently finishing my master degree in Molecular Techniques in Life Sciences in Stockholm, Sweden. I’m always excited to learn new technologies and collaborate on exciting projects that help us understand a bit more human diseases.
+Hi, I’m Alejandra! I’m a passionate life scientist with an interest for omics data. I hope to understand human diaseases and the interaction between microbes and us. I'm currently finishing my master degree in Molecular Techniques in Life Sciences in Stockholm, Sweden. I’m always excited to learn new technologies and collaborate on exciting projects that help us understand a bit more human diseases.
 
 - 🪴: I’m currently exploring **scRNA-Seq** and **Machine Learning**.
 - 🤝: I’m looking to collaborate on **multimodality integration** and **host-microbes interaction**.
