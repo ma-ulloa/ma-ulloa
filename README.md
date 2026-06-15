@@ -5,8 +5,8 @@ Hi, I’m Alejandra! I’m a passionate life scientist with an interest for omic
 - 🪴: I’m currently exploring **scRNA-Seq** and **Machine Learning**.
 - 🤝: I’m looking to collaborate on **multimodality integration** and **host-microbes interaction**.
 - 💬: Ask me about **R**, **Python**, and **omics workflow**.
-- 📧: How to reach me: [alejaulloam@gmail.com](maria.alejandra.ulloa@stud.ki.se)
-- ✨: Fun fact: I can solve a Rubik’s cube in under a minute!
+- 📧: How to reach me: [alejaulloam@gmail.com](maria.alejandra.ulloa@ki.se)
+- ✨: Fun fact: sadly I am not sure what is mine!
 
 
 ## 📥: Connect with Me
